@@ -4,6 +4,7 @@ This is a collections of notes of useful codes and tips that I will use to build
 ---
 1. Add emoji to repository description
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
 2.Connect guithub with R [paste Blasee's repository here]
 ---
 
