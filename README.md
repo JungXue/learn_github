@@ -5,5 +5,9 @@ This is a collections of notes of useful codes and tips that I will use to build
 1. Add emoji to repository description https://www.webpagefx.com/tools/emoji-cheat-sheet/
 2. Connect guithub with R [paste Blasee's repository here]
 ---
-
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
