@@ -5,6 +5,20 @@ This is a collections of notes of useful codes and tips that I will use to build
 1. Add emoji to repository description https://www.webpagefx.com/tools/emoji-cheat-sheet/
 2. Connect guithub with R [paste Blasee's repository here]
 ---
+3. create tables
+https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markdown/
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
+
+
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
