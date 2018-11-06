@@ -25,3 +25,6 @@ https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markd
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
+---
+# Notes
+Maybe expand this to a Today I learnt? with Git R SAS SQL SPSS HTML PYTHON etc
