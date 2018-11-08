@@ -8,17 +8,6 @@ This is a collections of notes of useful codes and tips that I will use to build
 3. Create tables
 https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markdown/
 
-| Description | Link        |
-| ------------| ----------- |
-| Add emoji to repository description | https://www.webpagefx.com/tools/emoji-cheat-sheet/|
-| Connect guithub with R     | [paste Blasee's repository here]    |
-
-| Name | Description          |
-| ------------- | ----------- |
-| Help      | ~~Display the~~ help window.|
-| Close     | _Closes_ a window     |
-
-
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
