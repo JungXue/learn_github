@@ -14,6 +14,11 @@ https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markd
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
+4. Warning box
+<aside class="notice">
+Use class="notice" for blue notes, class="warning" for red warnings, and class="success" for green notes.
+</aside>
+
 ---
 # R
 1. set up git on R 
