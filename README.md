@@ -115,6 +115,13 @@ k[i] = i^2+5*i
 k
 }
 ``` 
+```{r}
+k = vector() # add notes here
+for (i in 1:n){
+k[i] = i^2+5*i
+k
+}
+``` 
 --------------------------------------------------------------------------------------------
 ### 1. Quotes
 I see alot of people used blocked quotes in their md files, so it is definitely very useful.
