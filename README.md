@@ -91,7 +91,7 @@ Note that i **DO NOT** add > in my markdown codes, ohter than example code chunk
 
 ```markdown
 > ```r {}
-> k = vector()
+> k = vector() # add notes here
 > for (i in 1:n){
 > k[i] = i^2+5*i
 > k
@@ -100,7 +100,7 @@ Note that i **DO NOT** add > in my markdown codes, ohter than example code chunk
 ```
 
 ```r {}
-k = vector()
+k = vector() # add notes here
 for (i in 1:n){
 k[i] = i^2+5*i
 k
