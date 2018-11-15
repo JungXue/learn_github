@@ -7,13 +7,14 @@ This is a collections of notes of useful codes and tips that I will use to build
 # Markdown
 1. Markdown Basics https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
 
-Headings 
+1.1 Headings 
 # # heading
 ## ## heading
 ### ### heading
 #### #### heading
 ##### ##### heading
 ###### ###### heading
+####### ####### heading
 
 2. Add emoji to repository description :smiley: 
   - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
