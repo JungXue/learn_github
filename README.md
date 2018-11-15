@@ -34,6 +34,10 @@ You must replace `meowmeowmeow` with your personal API key.
 <p>This becomes a quote block, with the class anything-box added.</p>
 </blockquote>
 
+@alert danger
+This is a dangerous text, it will be displayed in a danger alert box!
+@end
+
 ---
 # R
 1. set up git on R 
