@@ -9,7 +9,7 @@ This is a collections of notes of useful codes and tips that I will use to build
 
 1.1 Headings 
 
-```Markdown
+```R
 # heading
 ## heading
 ### heading
