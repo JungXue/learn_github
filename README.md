@@ -25,6 +25,11 @@ https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markd
 Use class= **notice** for blue notes, class= **warning** for red warnings, and class= **success** for green notes.
 </aside>
 ? why isnt this working?
+
+<aside class="notice">
+You must replace `meowmeowmeow` with your personal API key.
+</aside>
+
 ---
 # R
 1. set up git on R 
