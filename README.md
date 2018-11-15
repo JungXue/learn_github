@@ -97,7 +97,7 @@ Note that i **DO NOT** add > in my markdown codes, ohter than example code chunk
 <img src="gangster.jpg" width="104" height="142">
 ``` 
 **Example 3: R**
-
+Note that in RMD files, we use {R} rather than R{}. 
 ```markdown
 > ```r {}
 > k = vector() # add notes here
@@ -115,14 +115,9 @@ k[i] = i^2+5*i
 k
 }
 ``` 
-```{r}
-k = vector() # add notes here
-for (i in 1:n){
-k[i] = i^2+5*i
-k
-}
-``` 
---------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------
+
 ### 1. Quotes
 I see alot of people used blocked quotes in their md files, so it is definitely very useful.
 However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so I have to use <kbd>/</kbd>, <kbd>Enter</kbd> here. 
