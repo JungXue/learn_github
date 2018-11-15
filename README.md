@@ -11,7 +11,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 ### 1.0 Markdown Basics
 - [help.github](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Robert Lord/slate](https://github.com/lord/slate/wiki/Markdown-Syntax)
-- Posts on [stackoverflow.com](https://stackoverflow.com/) are also very helpful, I often find useful posts such as [this](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) when I do a google search such as "warning boxes md file". 
+- Posts on [stackoverflow.com](https://stackoverflow.com/) are also very helpful, I often find useful posts such as [this](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) when I do a google search keywords of my question such as "how to warning boxes md file". 
 
 ### 1.1 Headings 
 I found #heading ##heading and ###heading most useful, I tried to add color and change font but I dont think I can, and later realised that I don;'t actually need to, just keep things simple and concise and future me will surely thank my decision. 
