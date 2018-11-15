@@ -56,7 +56,7 @@ Paragraph 1
 Paragraph 2
 
 --------------------------------------------------------------------------------------------------------
-1.3 Codes
+### 1.3 Codes
 the general syntax for a block of code in markdown files is, you will find the  <kbd>`</kbd> (it is with <kbd>~</kbd>) button  on the top left of your key board. 
 ```markdown
 > ```language
