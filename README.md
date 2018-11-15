@@ -87,7 +87,7 @@ Note that i **DO NOT** add > in my markdown codes, ohter than example code chunk
 <img src="gangster.jpg" width="104" height="142">
 ``` 
 ```markdown
-> ```r{}
+> ```r {}
 > k = vector()
 > for (i in 1:n){
 > k[i] = i^2+5*i
