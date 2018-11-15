@@ -64,7 +64,7 @@ the general syntax for a block of code in markdown files is, you will find the  
 
 Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers)
 
-I personally have the needs for LaTeX, R, Markdown, HTML, unfortunately I dont think there are option for SAS. 
+I personally have the needs for R, Markdown, HTML, unfortunately I dont think there are option for SAS~nor LaTeX. 
 
 ```markdown
 > ```markdown
@@ -92,7 +92,7 @@ I personally have the needs for LaTeX, R, Markdown, HTML, unfortunately I dont t
 <body>
 <h2>HTML Images</h2>
 <p>HTML images are defined with the img tag:</p>
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<img src="gangster.jpg" width="104" height="142">
 </body>
 </html>
 ``` 
