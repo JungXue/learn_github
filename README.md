@@ -75,7 +75,7 @@ I personally have the needs for LaTeX, R, Markdown, HTML, unfortunately I dont t
 > # heading
 ``` 
 
-```html
+```markdown
 > ``` html
 > <html>
 > <body>
