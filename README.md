@@ -95,7 +95,9 @@ https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markd
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-```Markdown
+List of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers)
+
+```markdown
 if (isAwesome){
   return true
 }
