@@ -15,6 +15,12 @@ This is a collections of notes of useful codes and tips that I will use to build
     #### heading
     ##### heading
     ###### heading
+    <span style="color:blue">some *### heading* text</span>
+
+
+And
+
+<span style="color:red">some **This is Red Bold.** text</span>
 ```
 # heading
 ## heading
@@ -22,19 +28,13 @@ This is a collections of notes of useful codes and tips that I will use to build
 #### heading
 ##### heading
 ###### heading
+### <span style="color:blue">some * heading* text</span>
 
-    # heading
-    ## heading
-    ### heading
-    ......
-    ###### heading
 
 Markdown:
 
-> ## Blockquoted header
->
+> ### Blockquoted header
 > This is blockquoted text.
->
 > This is a second paragraph within the blockquoted text.
 
 2. Add emoji to repository description :smiley: 
