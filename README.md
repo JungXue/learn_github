@@ -59,8 +59,8 @@ Paragraph 2
 the general syntax for a block of code in markdown files is 
 ```markdown
 
-```language
-```
+> ```language
+> ```
 
 ``` 
 
