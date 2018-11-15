@@ -11,6 +11,10 @@ This is a collections of notes of useful codes and tips that I will use to build
 
 ```Markdown
 # heading
+## heading
+### heading
+...
+###### heading
 ``` 
 # heading
 
@@ -31,6 +35,13 @@ This is a collections of notes of useful codes and tips that I will use to build
 ``` 
 ###### heading
 
+Markdown:
+
+> ## Blockquoted header
+>
+> This is blockquoted text.
+>
+> This is a second paragraph within the blockquoted text.
 
 2. Add emoji to repository description :smiley: 
   - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
