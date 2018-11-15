@@ -109,7 +109,7 @@ k
 --------------------------------------------------------------------------------------------
 ### 1. Quotes
 I see alot of people used blocked quotes in their md files, so it is definitely very useful.
-However for some reason double <kbd>Enter</kbd> does not work here, so I have to use <kbd>/</kbd> here. 
+However for some reason double <kbd>Enter</kbd> does not work here, so I have to use <kbd>/</kbd>, <kbd>Enter</kbd> here. 
 ```markdown
 > ### Blockquoted header
 > This is blockquoted text.
@@ -135,6 +135,7 @@ However for some reason double <kbd>Enter</kbd> does not work here, so I have to
 > This is the first paragraph.
 > This is the second paragraph. 
 > hello\
+>
 > world
 
 ----------------------------------------------------------------------------------------------------------
