@@ -30,11 +30,9 @@ Use class= **notice** for blue notes, class= **warning** for red warnings, and c
 You must replace `meowmeowmeow` with your personal API key.
 </aside>
 
-blah blah
-
-\todo{something}
-
-blah
+<blockquote class='anything-box'>
+<p>This becomes a quote block, with the class anything-box added.</p>
+</blockquote>
 
 ---
 # R
