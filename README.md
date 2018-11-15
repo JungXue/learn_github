@@ -36,9 +36,13 @@ Paragraph 1
 
 Paragraph 2
 
-what is up
-my g
-dd
+MD file will automatically attach your paragraphs if there is no empty line separating your paragraphs, this is not rocket science but I often accidently make this mistake and had to edit my codes. 
+```markdown
+Paragraph 1
+Paragraph 2
+```
+Paragraph 1
+Paragraph 2
 
 ---
 1.2 Quotes
