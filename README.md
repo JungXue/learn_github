@@ -102,7 +102,7 @@ if (isAwesome){
 > world
 
 ----------------------------------------------------------------------------------------------------------
-
+<kbd>CTRL</kbd>+<kbd>Z</kbd>
 ----------------------------------------------------------------------------------------------------------
 ### 2. Add emoji to repository description :smiley: 
   - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
