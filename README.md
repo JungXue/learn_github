@@ -34,7 +34,7 @@ I found #heading ##heading and ###heading most useful, I tried to add color and 
 
 ---------------------------------------------------------------------------------------------
 
-### 1.1 Paragraphs
+### 1.2 Paragraphs
 Paragraphs are separated by empty lines. To create a new paragraph, press <return> twice.
 
 ```markdown
@@ -55,8 +55,24 @@ Paragraph 1
 Paragraph 2
 
 --------------------------------------------------------------------------------------------------------
+1.3 Codes
+the general syntax for a block of code in markdown files is 
+```markdown
 
-1.2 Quotes
+```language
+```
+
+``` 
+
+List of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers)
+
+```markdown
+if (isAwesome){
+  return true
+}
+``` 
+--------------------------------------------------------------------------------------------
+### 1. Quotes
 ```Markdown
 > ### Blockquoted header
 > This is blockquoted text.
@@ -102,13 +118,7 @@ https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markd
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-List of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers)
 
-```markdown
-if (isAwesome){
-  return true
-}
-``` 
 
 <mark>Marked text</mark>
 ---
