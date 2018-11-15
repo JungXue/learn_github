@@ -79,27 +79,15 @@ Note that i **DO NOT** add > in my markdown codes, ohter than example code chunk
 
 ```markdown
 > ``` html
-> <html>
-> <body>
-> <h2>HTML Images</h2>
-> <p>HTML images are defined with the img tag:</p>
-> <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
-> </body>
-> </html>
+> <img src="gangster.jpg" width="104" height="142">
 > ``` 
 ```
 
 ```html
-<html>
-<body>
-<h2>HTML Images</h2>
-<p>HTML images are defined with the img tag:</p>
 <img src="gangster.jpg" width="104" height="142">
-</body>
-</html>
 ``` 
 ```markdown
-> ```r
+> ```r{}
 > k = vector()
 > for (i in 1:n){
 > k[i] = i^2+5*i
@@ -108,7 +96,7 @@ Note that i **DO NOT** add > in my markdown codes, ohter than example code chunk
 > ``` 
 ```
 
-```r
+```r{}
 k = vector()
 for (i in 1:n){
 k[i] = i^2+5*i
