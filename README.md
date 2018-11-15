@@ -38,6 +38,15 @@ You must replace `meowmeowmeow` with your personal API key.
 This is a dangerous text, it will be displayed in a danger alert box!
 @end
 
+::: warning
+*here be dragons*
+:::
+Will then render as:
+
+<div class="warning">
+<em>here be dragons</em>
+</div>
+
 ---
 # R
 1. set up git on R 
