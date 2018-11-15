@@ -15,6 +15,7 @@ Here are a few wiki and repository that I read to learn the basic laguage of mar
 - [Robert Lord: lord/slate](https://github.com/lord/slate/wiki/Markdown-Syntax)
 - [Alexander Dupuy: dupuy/README.rst](https://gist.github.com/dupuy/1855764)
 - Posts on [stackoverflow.com](https://stackoverflow.com/) are also very helpful, I often find useful posts such as [this](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) when I do a google search keywords of my question such as "[warning boxes md file](https://www.google.co.nz/search?q=warning+boxes+md+file&rlz=1C1GGRV_enNZ816NZ816&oq=warning+boxes+md+file&aqs=chrome..69i57.527j0j7&sourceid=chrome&ie=UTF-8)". 
+- [R-Studio cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 --------------------------------------------------------------------------------------------------------
 ### 1.1 Headings 
 I found #heading ##heading and ###heading most useful, I tried to add color and change font but I do not think I can, and later realised that I do not actually need to do too much fancy stuff, just keep things simple and concise and future me reading this will surely thank my decision. 
