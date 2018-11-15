@@ -67,9 +67,12 @@ Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://
 I personally have the needs for LaTeX, R, Markdown, HTML, unfortunately I dont think there are option for SAS. 
 
 ```markdown
-if (isAwesome){
-  return true
-}
+> ```markdown
+> # heading
+> ```
+```
+```markdown
+# heading
 ``` 
 ```latex
 if (isAwesome){
@@ -82,10 +85,10 @@ if (isAwesome){
 }
 ``` 
 ```r
-> k = vector()
-> for (i in 1:n){
-> k[i] = i^2+5*i
-> k
+k = vector()
+for (i in 1:n){
+k[i] = i^2+5*i
+k
 }
 ``` 
 --------------------------------------------------------------------------------------------
@@ -119,7 +122,7 @@ if (isAwesome){
 > world
 
 ----------------------------------------------------------------------------------------------------------
-###keyboardg lyphs
+###keyboard glyphs
 https://meta.stackexchange.com/questions/5527/keyboard-glyphs
 
 <kbd>CTRL</kbd>+<kbd>Z</kbd>
