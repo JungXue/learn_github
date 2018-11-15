@@ -1,5 +1,3 @@
-# testgit
----
 ```
 This is a collections of notes of useful codes and tips that I will use to build my github, 
 I will try to add to this everytime I learnt something new, it will start as a list and when 
