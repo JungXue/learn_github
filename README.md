@@ -9,7 +9,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 # Markdown files
 ----------------------------------------------------------------------------------------------
 ### 1.0 Markdown Basics
-Here are a few wiki and repository that I read to learn the basic laguage of markdown files, for more advanced codes 
+Here are a few wiki and repository that I read to learn the basic laguage of markdown files
 - [help.github](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Bitbucket Markdown syntax guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 - [Robert Lord: lord/slate](https://github.com/lord/slate/wiki/Markdown-Syntax)
