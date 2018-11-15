@@ -6,6 +6,15 @@ This is a collections of notes of useful codes and tips that I will use to build
 ---
 # Markdown
 1. Markdown Basics https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
+
+Headings 
+# # heading
+## ## heading
+###
+####
+#####
+###### The smallest heading
+
 2. Add emoji to repository description :smiley: 
   - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
   - Emoji by alphabet https://readme.io/emojis/
