@@ -96,6 +96,16 @@ I personally have the needs for LaTeX, R, Markdown, HTML, unfortunately I dont t
 </body>
 </html>
 ``` 
+```markdown
+> ```r
+> k = vector()
+> for (i in 1:n){
+> k[i] = i^2+5*i
+> k
+> }
+> ``` 
+```
+
 ```r
 k = vector()
 for (i in 1:n){
@@ -105,7 +115,7 @@ k
 ``` 
 --------------------------------------------------------------------------------------------
 ### 1. Quotes
-```Markdown
+```markdown
 > ### Blockquoted header
 > This is blockquoted text.
 > This is a second paragraph within the blockquoted text.
@@ -114,7 +124,7 @@ k
 > This is blockquoted text.
 > This is a second paragraph within the blockquoted text.
 
-```Markdown
+```markdown
 > ### Blockquoted header
 >
 > This is blockquoted text.
