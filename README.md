@@ -9,12 +9,12 @@ This is a collections of notes of useful codes and tips that I will use to build
 ### 1.1 Headings 
 I found #heading ##heading and ###heading most useful, I tried to add color and change font but I dont think I can, and later realised that I don;'t actually need to, just keep things simple and concise and future me will surely thank my decision. 
 ```markdown
-    # heading
-    ## heading
-    ### heading
-    #### heading
-    ##### heading
-    ###### heading
+> # heading
+> ## heading
+> ### heading
+> #### heading
+> ##### heading
+> ###### heading
 ```
 # heading
 ## heading
@@ -28,9 +28,9 @@ I found #heading ##heading and ###heading most useful, I tried to add color and 
 Paragraphs are separated by empty lines. To create a new paragraph, press <return> twice.
 
 ```markdown
-Paragraph 1
-
-Paragraph 2
+> Paragraph 1
+>
+> Paragraph 2
 ```
 Paragraph 1
 
@@ -38,8 +38,8 @@ Paragraph 2
 
 MD file will automatically attach your paragraphs if there is no empty line separating your paragraphs, this is not rocket science but I often accidently make this mistake and had to edit my codes. 
 ```markdown
-Paragraph 1
-Paragraph 2
+> Paragraph 1
+> Paragraph 2
 ```
 Paragraph 1
 Paragraph 2
