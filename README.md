@@ -8,7 +8,7 @@ This is a collections of notes of useful codes and tips that I will use to build
 
 ### 1.1 Headings 
 I found #heading ##heading and ###heading most useful, I tried to add color and change font but I dont think I can, and later realised that I don;'t actually need to, just keep things simple and concise and future me will surely thank my decision. 
-```Markdown
+```markdown
     # heading
     ## heading
     ### heading
