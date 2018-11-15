@@ -62,7 +62,7 @@ the general syntax for a block of code in markdown files is, you will find the  
 > ```
 ``` 
 
-Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers)
+Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers))
 
 I personally have the needs for R, Markdown, HTML, unfortunately I dont think there are option for SAS~nor LaTeX. 
 
