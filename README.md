@@ -8,14 +8,18 @@ This is a collections of notes of useful codes and tips that I will use to build
 1. Markdown Basics https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
 
 1.1 Headings 
-
-```R
+    # heading
+    ## heading
+    ### heading
+    ......
+    ###### heading
+    
 # heading
 ## heading
 ### heading
 ...
 ###### heading
-``` 
+
     # heading
     ## heading
     ### heading
