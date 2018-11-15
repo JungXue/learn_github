@@ -7,7 +7,7 @@ This is a collections of notes of useful codes and tips that I will use to build
 # Markdown
 1. Markdown Basics https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
 2. Add emoji to repository description :smiley: 
-  - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
+&nbsp;&nbsp;&nbsp;  - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
   - Emoji by alphabet https://readme.io/emojis/
   - Japanese Emoticons ╮(╯∀╰)╭ https://www.jemoticons.com/en/kiss/
 3. Create tables
