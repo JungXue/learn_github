@@ -15,6 +15,10 @@ This is a collections of notes of useful codes and tips that I will use to build
 ##### ##### heading
 ###### ###### heading
 
+def foo():
+    if not bar:
+        return True
+        
 TeX Mathematical Formulae
 A full description of TeX math symbols is beyond the scope of this cheatsheet. Here's a good reference, and you can try stuff out on CodeCogs. You can also play with formulae in the Markdown Here options page.
 
