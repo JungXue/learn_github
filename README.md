@@ -19,20 +19,27 @@ Here are a few wiki and repository that I read to learn the basic laguage of mar
 ### 1.1 Headings 
 I found #heading ##heading and ###heading most useful, I tried to add color and change font but I do not think I can, and later realised that I do not actually need to do too much fancy stuff, just keep things simple and concise and future me reading this will surely thank my decision. 
 ```markdown
-> # heading
-> ## heading
-> ### heading
-> #### heading
-> ##### heading
-> ###### heading
+> # heading 1
+> ## heading 2
+> ### heading 3
+> #### heading 4
+> ##### heading 5
+> ###### heading 6
+> heading 1
+> ===
+> heading 2
+> ---
 ```
-# heading
-## heading
-### heading
-#### heading
-##### heading
-###### heading
-
+# heading 1
+## heading 2
+### heading 3
+#### heading 4
+##### heading 5
+###### heading 6
+heading 1
+===
+heading 2
+---
 ---------------------------------------------------------------------------------------------
 
 ### 1.2 Paragraphs
