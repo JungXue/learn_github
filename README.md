@@ -18,7 +18,8 @@ Here are a few wiki and repository that I read to learn the basic laguage of mar
 - [R-Studio cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 --------------------------------------------------------------------------------------------------------
 ### 1.1 Headings 
-I found #heading ##heading and ###heading most useful, I tried to add color and change font but I do not think I can, and later realised that I do not actually need to do too much fancy stuff, just keep things simple and concise and future me reading this will surely thank my decision. 
+I found #heading ##heading and ###heading most useful, I tried to add color and change font but I do not think I can, and later realised that I do not actually need to do too much fancy stuff, just keep things simple and concise and future me reading this will surely thank my decision. You can also use === and --- but I don not recommend it as it makes markdown codes messy, but I can see why some people prefer to use it, i often use these codes in Microsoft Word.
+
 ```markdown
 > # heading 1
 > ## heading 2
