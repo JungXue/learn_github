@@ -156,9 +156,9 @@ https://meta.stackexchange.com/questions/5527/keyboard-glyphs
 <kbd>CTRL</kbd>+<kbd>Z</kbd>
 ----------------------------------------------------------------------------------------------------------
 ### 2. Add emoji to repository description :smiley: 
-  - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
-  - Emoji by alphabet https://readme.io/emojis/
-  - Japanese Emoticons ╮(╯∀╰)╭ https://www.jemoticons.com/en/kiss/
+  - Emoji by [type](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+  - Emoji by [alphabet](https://readme.io/emojis/)
+  - Japanese Emoticons ╮(╯∀╰)╭ (by [Tsutomu Narushima](https://www.jemoticons.com/en/))
 ------------------------------------------------------------------------------------------------------------
 3. Create tables
 https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markdown/
@@ -181,3 +181,7 @@ https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markd
 # Notes
 Maybe expand this to a Today I learnt? with Git R SAS SQL SPSS HTML PYTHON etc
 like this one https://github.com/jbranchaud/til
+
+# disclaimer
+Opinions expressed are solely my own and do not express the views or opinions of my university or employer.
+I did not intend to copy or redistribute materials or works of other people, all works are original. 
