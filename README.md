@@ -65,6 +65,7 @@ Paragraph 2
 > This is a second paragraph within the blockquoted text.
 >
 > hello\
+>
 > world
 >
 ```
@@ -72,6 +73,7 @@ Paragraph 2
 > This is blockquoted text.
 > This is a second paragraph within the blockquoted text.
 > hello\
+>
 > world
 
 ----------------------------------------------------------------------------------------------------------
