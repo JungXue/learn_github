@@ -46,7 +46,7 @@ This is a collections of notes of useful codes and tips that I will use to build
 ---
 
 ---
-2. Add emoji to repository description :smiley: 
+### 2. Add emoji to repository description :smiley: 
   - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
   - Emoji by alphabet https://readme.io/emojis/
   - Japanese Emoticons ╮(╯∀╰)╭ https://www.jemoticons.com/en/kiss/
