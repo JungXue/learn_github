@@ -1,6 +1,6 @@
 This is a collections of notes of useful codes and tips that I will use to build my github, I will try to add to this everytime I learnt something new, it will start as a list and when I start to learn lots of things I will try to create a table of lists and add in codes to make this more presentable. 
 
----
+-----------------------------------------------------------------------------------------------
 
 # Markdown files
 
@@ -23,7 +23,8 @@ I found #heading ##heading and ###heading most useful, I tried to add color and 
 ##### heading
 ###### heading
 
----
+---------------------------------------------------------------------------------------------
+
 ### 1.1 Paragraphs
 Paragraphs are separated by empty lines. To create a new paragraph, press <return> twice.
 
@@ -36,7 +37,7 @@ Paragraph 1
 
 Paragraph 2
 
-MD file will automatically attach your paragraphs if there is no empty line separating your paragraphs, this is not rocket science but I often accidently make this mistake and had to edit my codes. 
+MD file will automatically attach your paragraphs if there is no empty line separating your paragraphs, I often accidently make this careless mistake and had to edit my codes. 
 ```markdown
 > Paragraph 1
 > Paragraph 2
@@ -44,7 +45,8 @@ MD file will automatically attach your paragraphs if there is no empty line sepa
 Paragraph 1
 Paragraph 2
 
----
+--------------------------------------------------------------------------------------------------------
+
 1.2 Quotes
 ```Markdown
 > ### Blockquoted header
@@ -65,14 +67,15 @@ Paragraph 2
 > ### Blockquoted header
 > This is blockquoted text.
 > This is a second paragraph within the blockquoted text.
----
 
----
+----------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------
 ### 2. Add emoji to repository description :smiley: 
   - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
   - Emoji by alphabet https://readme.io/emojis/
   - Japanese Emoticons ╮(╯∀╰)╭ https://www.jemoticons.com/en/kiss/
----
+------------------------------------------------------------------------------------------------------------
 3. Create tables
 https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markdown/
 
