@@ -46,7 +46,9 @@ Will then render as:
 <div class="warning">
 <em>here be dragons</em>
 </div>
+5. hightlighting text
 
+<mark>Marked text</mark>
 ---
 # R
 1. set up git on R 
