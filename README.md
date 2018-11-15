@@ -68,21 +68,33 @@ I personally have the needs for LaTeX, R, Markdown, HTML, unfortunately I dont t
 
 ```markdown
 > ```markdown
-> # heading
+> > # heading
 > ```
 ```
 ```markdown
-# heading
+> # heading
 ``` 
-```latex
-if (isAwesome){
-  return true
-}
-```  
+
 ```html
-if (isAwesome){
-  return true
-}
+> ``` html
+> <html>
+> <body>
+> <h2>HTML Images</h2>
+> <p>HTML images are defined with the img tag:</p>
+> <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+> </body>
+> </html>
+> ``` 
+```
+
+```html
+<html>
+<body>
+<h2>HTML Images</h2>
+<p>HTML images are defined with the img tag:</p>
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+</body>
+</html>
 ``` 
 ```r
 k = vector()
