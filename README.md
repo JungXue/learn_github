@@ -15,8 +15,7 @@ This is a collections of notes of useful codes and tips that I will use to build
     #### heading
     ##### heading
     ###### heading
-    <span style="color:blue">some *### heading* text</span>
-
+   
 
 And
 
@@ -29,7 +28,7 @@ And
 ##### heading
 ###### heading
 ### <span style="color:blue">some * heading* text</span>
-
+<span style="color:red">some **This is Red Bold.** text</span>
 
 Markdown:
 
