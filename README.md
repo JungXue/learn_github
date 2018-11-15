@@ -35,7 +35,7 @@ I found #heading ##heading and ###heading most useful, I tried to add color and 
 ---------------------------------------------------------------------------------------------
 
 ### 1.2 Paragraphs
-Paragraphs are separated by empty lines. To create a new paragraph, press <kbd>return</kbd> twice.
+Paragraphs are separated by empty lines. To create a new paragraph, press <kbd>Enter</kbd>twice.
 
 ```markdown
 > Paragraph 1
