@@ -15,11 +15,7 @@ This is a collections of notes of useful codes and tips that I will use to build
     #### heading
     ##### heading
     ###### heading
-   
-
-And
-
-<span style="color:red">some **This is Red Bold.** text</span>
+I don't think you can or need to add color or change fonts of the headers
 ```
 # heading
 ## heading
