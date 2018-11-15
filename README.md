@@ -64,11 +64,28 @@ the general syntax for a block of code in markdown files is, you will find the  
 
 Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers)
 
-I personally have the needs for LaTeX, R, Markdown
+I personally have the needs for LaTeX, R, Markdown, HTML, unfortunately I dont think there are option for SAS. 
 
 ```markdown
 if (isAwesome){
   return true
+}
+``` 
+```latex
+if (isAwesome){
+  return true
+}
+```  
+```html
+if (isAwesome){
+  return true
+}
+``` 
+```r
+> k = vector()
+> for (i in 1:n){
+> k[i] = i^2+5*i
+> k
 }
 ``` 
 --------------------------------------------------------------------------------------------
