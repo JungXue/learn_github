@@ -69,7 +69,7 @@ I personally have the needs for R, Markdown, HTML, unfortunately I dont think th
 
 Note that i **DO NOT** add > in my markdown codes, ohter than example code chunks, I only add it to aid visalisation. 
 
-**Example 1 markdown**
+**Example 1: Markdown **
 ```markdown
 > ```markdown
 > > # heading
@@ -78,7 +78,7 @@ Note that i **DO NOT** add > in my markdown codes, ohter than example code chunk
 ```markdown
 > # heading
 ``` 
-**Example 2 html**
+**Example 2: HTML**
 ```markdown
 > ``` html
 > <img src="gangster.jpg" width="104" height="142">
@@ -88,7 +88,7 @@ Note that i **DO NOT** add > in my markdown codes, ohter than example code chunk
 ```html
 <img src="gangster.jpg" width="104" height="142">
 ``` 
-**Example 3 R**
+**Example 3: R**
 
 ```markdown
 > ```r {}
