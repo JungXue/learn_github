@@ -2,11 +2,11 @@ This is a collections of notes of useful codes and tips that I will use to build
 
 ---
 
-# Markdown
----
+# Markdown files
+    ---
 
 ### 1.0 Markdown Basics https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
----
+    ---
 
 ### 1.1 Headings 
 ```Markdown
@@ -16,7 +16,8 @@ This is a collections of notes of useful codes and tips that I will use to build
     #### heading
     ##### heading
     ###### heading
-I don't think you can or need to add color or change fonts of the headers
+    
+I don't think you can or need to add color or change fonts of the headers of MD files
 ```
 # heading
 ## heading
