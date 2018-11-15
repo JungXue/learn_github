@@ -66,6 +66,8 @@ Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://
 
 I personally have the needs for R, Markdown, HTML, unfortunately I dont think there are option for SAS~nor LaTeX. 
 
+Note that i do not add > in my codes, it is just here to aid visalisation. 
+
 ```markdown
 > ```markdown
 > > # heading
