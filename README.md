@@ -5,9 +5,9 @@ This is a collections of notes of useful codes and tips that I will use to build
 
 ---
 # Markdown
-1. Markdown Basics https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
-
-1.1 Headings 
+## 1. Markdown Basics https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
+---
+### 1.1 Headings 
 ```Markdown
     # heading
     ## heading
@@ -26,11 +26,18 @@ I don't think you can or need to add color or change fonts of the headers
 ### <span style="color:blue">some * heading* text</span>
 <span style="color:red">some **This is Red Bold.** text</span>
 
-Markdown:
-
+---
+1.2 Quotes
+```Markdown
 > ### Blockquoted header
 > This is blockquoted text.
 > This is a second paragraph within the blockquoted text.
+```
+> ### Blockquoted header
+> This is blockquoted text.
+> This is a second paragraph within the blockquoted text.
+---
+
 
 2. Add emoji to repository description :smiley: 
   - Emoji by type https://www.webpagefx.com/tools/emoji-cheat-sheet/
