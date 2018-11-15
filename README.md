@@ -8,12 +8,34 @@ This is a collections of notes of useful codes and tips that I will use to build
 1. Markdown Basics https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
 
 1.1 Headings 
-# # heading
-## ## heading
-### ### heading
-#### #### heading
-##### ##### heading
-###### ###### heading
+
+```Markdown
+# heading
+``` 
+# heading
+
+```Markdown
+## heading
+``` 
+## heading
+
+```Markdown 
+### heading``` 
+### heading
+
+```Markdown
+``` 
+
+#### heading
+```Markdown
+``` 
+
+##### heading
+
+```Markdown
+###### heading
+``` 
+###### heading
 
 
 2. Add emoji to repository description :smiley: 
