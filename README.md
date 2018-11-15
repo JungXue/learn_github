@@ -20,17 +20,11 @@ This is a collections of notes of useful codes and tips that I will use to build
 ## heading
 
 ```Markdown 
-### heading``` 
+### heading
+``` 
 ### heading
 
-```Markdown
-``` 
-
-#### heading
-```Markdown
-``` 
-
-##### heading
+......
 
 ```Markdown
 ###### heading
