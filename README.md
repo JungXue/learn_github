@@ -35,7 +35,7 @@ I found #heading ##heading and ###heading most useful, I tried to add color and 
 ---------------------------------------------------------------------------------------------
 
 ### 1.2 Paragraphs
-Paragraphs are separated by empty lines. To create a new paragraph, press <kbd>Enter</kbd>twice.
+Paragraphs are separated by empty lines. To create a new paragraph, press <kbd>Enter</kbd> twice.
 
 ```markdown
 > Paragraph 1
@@ -108,21 +108,23 @@ k
 ``` 
 --------------------------------------------------------------------------------------------
 ### 1. Quotes
+I see alot of people used blocked quotes in their md files, so it is definitely very useful.
+However for some reason double <kbd>Enter</kbd> does not work here, so I have to use <kbd>/</kbd> here. 
 ```markdown
 > ### Blockquoted header
 > This is blockquoted text.
 > This is a second paragraph within the blockquoted text.
 ```
 > ### Blockquoted header
-> This is blockquoted text.
-> This is a second paragraph within the blockquoted text.
+> This is the first paragraph.
+> This is the second paragraph. 
 
 ```markdown
 > ### Blockquoted header
 >
-> This is blockquoted text.
+> This is the first paragraph.
 >
-> This is a second paragraph within the blockquoted text.
+> This is the second paragraph. 
 >
 > hello\
 >
@@ -130,10 +132,9 @@ k
 >
 ```
 > ### Blockquoted header
-> This is blockquoted text.
-> This is a second paragraph within the blockquoted text.
+> This is the first paragraph.
+> This is the second paragraph. 
 > hello\
->
 > world
 
 ----------------------------------------------------------------------------------------------------------
