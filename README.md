@@ -149,7 +149,8 @@ However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so
 > hello\
 >
 > world
-
+-----------------------------------------------------------------------------------------------
+**Continue here**
 ----------------------------------------------------------------------------------------------------------
 ###keyboard glyphs
 https://meta.stackexchange.com/questions/5527/keyboard-glyphs
