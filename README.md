@@ -160,6 +160,7 @@ https://meta.stackexchange.com/questions/5527/keyboard-glyphs
   - Emoji by [type](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
   - Emoji by [alphabet](https://readme.io/emojis/)
   - Japanese Emoticons ╮(╯∀╰)╭ (by [Tsutomu Narushima](https://www.jemoticons.com/en/))
+  - Japanese Emoticons （。ω。 三 ゜ω゜）としろうだよ ([Name diagnosis](https://shindanmaker.com/360578?fbclid=IwAR1gN16jGqWwpBVAYPg33KeN4ZLmXzEzOBZoBEC8jjuIp8L5EdmtfZ7nlpw))
 ------------------------------------------------------------------------------------------------------------
 3. Create tables
 https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markdown/
