@@ -80,7 +80,7 @@ Basic *italic* and **bold** text will be useful, however use of  <kbd>*</kbd> an
 | Strike through | <kbd>~~ ~~</kbd> |                               | <kbd>``~~``Strike through``~~``</kbd>| ~~Strike through~~|
 
 
-Note: To write out astrisks without activating it as syntax, use <kbd>``</kbd> <kbd>*</kbd> <kbd>``</kbd>. 
+Note: To write out astrisks without activating it as syntax, use <kbd>`</kbd><kbd>`</kbd> <kbd>*</kbd> <kbd>`</kbd><kbd>`</kbd>. 
 
 
 --------------------------------------------------------------------------------------------------------
