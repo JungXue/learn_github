@@ -208,9 +208,11 @@ However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so
 - ANOVA
 - MANOVA
 
-Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt bold text <kbd>``*``bold``*``</kbd>.
+Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syntax for bold text <kbd>``*``bold``*``</kbd>.
 
 ----------------------------------------------------------------------------------------------------------
+######continue here
+
 ###keyboard glyphs
 https://meta.stackexchange.com/questions/5527/keyboard-glyphs
 
