@@ -97,9 +97,12 @@ This is an `inline code block`
 the general syntax for a block of code in markdown files is, you will find the grave accent  <kbd>`</kbd> (it is under the tilde <kbd>~</kbd> symbol) on the top left of your key board. 
 
 ```markdown
-> ```language
+> ``` language
+> Codes
 > ```
-```
+``` 
+``` language
+Codes
 ```
 
 Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers))
@@ -115,6 +118,7 @@ Note that i **DO NOT** add > in my markdown codes, other than example code chunk
 > > # heading
 > ```
 ```
+
 ```markdown
 > # heading
 ``` 
