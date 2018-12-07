@@ -80,8 +80,7 @@ Basic *italic* and **bold** text will be useful, however use of  <kbd>*</kbd> an
 | Strike through | <kbd>~~ ~~</kbd> |                               | <kbd>``~~``Strike through``~~``</kbd>| ~~Strike through~~|
 
 
-Note: To write out astrisks without activating it as syntax, use <kbd>``</kbd> to 
-
+Note: To write out astrisks <kbd>*</kbd> without activating it as syntax, use <kbd>``</kbd> to include it. 
 
 --------------------------------------------------------------------------------------------------------
 
@@ -138,8 +137,25 @@ k
 ``` 
 
 ---------------------------------------------------------------------------------------------
+### 1,5   Links
 
-### 1.5 Quotes
+Markdown files will automatically creates links when valid URLs are written. However it is often not presentable, so to reduce the length and use description text you can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). 
+
+You can also use the keyboard shortcut <kbd>command</kbd> + <kbd>k</kbd>to create a link.
+
+```markdown
+> https://github.com/JungXue
+>
+> [Jung Xue](https://github.com/JungXue).
+```
+https://github.com/JungXue
+
+[Jung Xue](https://github.com/JungXue)
+
+---------------------------------------------------------------------------------------------  
+
+
+### 1.6 Quotes
 I see alot of people used blocked quotes in their md files, so it is definitely very useful.
 However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so I have to use <kbd>/</kbd>, <kbd>Enter</kbd> here. 
 ```markdown
