@@ -71,12 +71,12 @@ Paragraph 2
 
 ### 1.3 Text
 
-Basic *italic* and **bold** text will be useful, however use of  <kbd>*</kbd> and <kbd>**</kbd> is ineffecient and limiting. You can use shortcuts <kbd>ctrl</kbd> + <kbd>i</kbd>  and <kbd>ctrl</kbd> + <kbd>b</kbd>, however I noticed it works on Unversity PC but not on my Laptop. 
+Basic *italic* and **bold** text will be useful, however use of  <kbd>*</kbd> and <kbd>**</kbd> is ineffecient and limiting. You can use shortcuts <kbd>ctrl</kbd> + <kbd>I</kbd>  and <kbd>ctrl</kbd> + <kbd>B</kbd>, however I noticed it works on Unversity PC but not on my Laptop. 
 
 | Style             | Syntax           | Keyboard shortcut             | Code                                 | Output            |
 | :---------------: |:----------------:| :----------------------------:|:------------------------------------:| :----------------:|
-| Italic            | <kbd>* *</kbd>   | <kbd>ctrl</kbd> + <kbd>i</kbd>| <kbd>``*``Italic``*``</kbd>          | *Italic*          |
-| Bold              | <kbd>** **</kbd> | <kbd>xtrl</kbd> + <kbd>b</kbd>| <kbd>``**``Bold``**``</kbd>          | **Bold**          |
+| Italic            | <kbd>* *</kbd>   | <kbd>ctrl</kbd> + <kbd>I</kbd>| <kbd>``*``Italic``*``</kbd>          | *Italic*          |
+| Bold              | <kbd>** **</kbd> | <kbd>xtrl</kbd> + <kbd>B</kbd>| <kbd>``**``Bold``**``</kbd>          | **Bold**          |
 | Strike through    | <kbd>~~ ~~</kbd> |                               | <kbd>``~~``Strike through``~~``</kbd>| ~~Strike through~~|
 
 Note: To write out astrisks <kbd>*</kbd> without activating it as syntax, use <kbd>``</kbd> to include inline code blocks. 
@@ -211,10 +211,22 @@ However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so
 Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syntax for bold text <kbd>``*``bold``*``</kbd>.
 
 ----------------------------------------------------------------------------------------------------------
+### 1.8 keyboard glyphs
+
+You can create keyboard glyphs by using ``<kbd> </kbd>``, this is extremely useful for informing which key to press. 
+
+Some people even made a whole keyboard with kbd, people have eway too much time to spare. See [This](https://meta.stackexchange.com/questions/1939/kbd-elements-are-way-too-intrusive).
+
+```markdown
+> <kbd> ctrl</kbd> + <kbd> B </kbd>
+```
+
+<kbd> ctrl</kbd> + <kbd> B </kbd>
+
 # continue here
 
 <aside class="notice">
-You must replace `meowmeowmeow` with your personal API key.
+You must replace `meowmeowmeow` with your personal API key. 
 </aside>
 Use class="notice" for blue notes, class="warning" for red warnings, and class="success" for green notes.
 
@@ -240,6 +252,8 @@ https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markd
 | zebra stripes | are neat        |    $1 |
 
 
+Username ``@mentions``
+Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an ``“@mention”``, because you’re mentioning the individual. You can also ``@mention`` teams within an organization.
 
 <mark>Marked text</mark>
 ---
