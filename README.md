@@ -211,7 +211,13 @@ However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so
 Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syntax for bold text <kbd>``*``bold``*``</kbd>.
 
 ----------------------------------------------------------------------------------------------------------
-######continue here
+# continue here
+
+<aside class="notice">
+You must replace `meowmeowmeow` with your personal API key.
+</aside>
+Use class="notice" for blue notes, class="warning" for red warnings, and class="success" for green notes.
+
 
 ###keyboard glyphs
 https://meta.stackexchange.com/questions/5527/keyboard-glyphs
