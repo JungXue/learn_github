@@ -99,7 +99,8 @@ the general syntax for a block of code in markdown files is, you will find the g
 ```markdown
 > ```language
 > ```
-``` 
+```
+```
 
 Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers))
 
@@ -107,7 +108,8 @@ I personally have the needs for R, Markdown, HTML, unfortunately I dont think th
 
 Note that i **DO NOT** add > in my markdown codes, other than example code chunks, I only add it to aid visalisation. 
 
-**Example 1: Markdown **
+**Example 1: Markdown**
+
 ```markdown
 > ```markdown
 > > # heading
@@ -238,6 +240,8 @@ Some people even made a whole keyboard with kbd, people have eway too much time 
 
 You have probabily already noticed that I use horizontal Rule to break each sections, I find this helpful and tells you approximately how long is each section before you even started reading it. Markdown requires only three repeating ``*`` ,  ``-`` or ``=`` symbols, but I personally use a very long ``-------------------------`` to break my codes visually. 
 
+Remember to add line breaks or you will be creating a title. 
+
 ```markdown
 ---
 ***
@@ -246,6 +250,15 @@ You have probabily already noticed that I use horizontal Rule to break each sect
 ---
 ***
 
+**Example**
+
+```markdown
+Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syntax for bold text <kbd>``*``bold``*``</kbd>.
+
+----------------------------------------------------------------------------------------------------------
+
+### 1.8 keyboard glyphs
+```
 
 
 
