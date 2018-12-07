@@ -221,6 +221,7 @@ However for some reason <kbd>Enter</kbd> , <kbd>Enter</kbd> does not work here, 
 Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syntax for bold text <kbd>``*``bold``*``</kbd>.
 
 ----------------------------------------------------------------------------------------------------------
+
 ### 1.8 keyboard glyphs
 
 You can create keyboard glyphs by using ``<kbd> </kbd>``, this is extremely useful for informing which key to press. 
@@ -232,6 +233,21 @@ Some people even made a whole keyboard with kbd, people have eway too much time 
 ```
 
 <kbd> ctrl</kbd> + <kbd> B </kbd>
+
+1.9 Horizontal Rule
+
+You have probabily already noticed that I use horizontal Rule to break each sections, I find this helpful and tells you approximately how long is each section before you even started reading it. Markdown requires only three repeating ``*`` ,  ``-`` or ``=`` symbols, but I personally use a very long ``-------------------------`` to break my codes visually. 
+
+```markdown
+---
+***
+```
+
+---
+***
+
+
+
 
 # continue here
 
