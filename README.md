@@ -71,15 +71,16 @@ Paragraph 2
 
 ### 1.3 Text
 
-Basic italic and bold text will be useful, 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+Basic *italic* and **bold** text will be useful, however use of  <kbd>*</kbd> and <kbd>**</kbd> is ineffecient and limiting. You can use shortcuts <kbd>ctrl</kbd> + <kbd>i</kbd>  and <kbd>ctrl</kbd> + <kbd>b</kbd>, however I noticed it works on Unversity PC but not on my Laptop. 
+
+| Style          | Syntax           | Keyboard shortcut             | Code                         | Output            |
+| :------------: |:----------------:| :----------------------------:|:----------------------------:| :----------------:|
+| Italic         | <kbd>* *</kbd>   | <kbd>ctrl</kbd> + <kbd>i</kbd>| <kbd>*Italic*</kbd>          | *Italic*          |
+| Bold           | <kbd>** **</kbd> | <kbd>xtrl</kbd> + <kbd>b</kbd>| <kbd>**Bold**</kbd>          | **Bold**          |
+| Strike through | <kbd>~~ ~~</kbd> |                               | <kbd>~~Strike through~~</kbd>| ~~Strike through~~|
 
 --------------------------------------------------------------------------------------------------------
-### 1.3 Codes
+### 1.4 Codes
 the general syntax for a block of code in markdown files is, you will find the  <kbd>`</kbd> (it is with <kbd>~</kbd>) button  on the top left of your key board. 
 ```markdown
 > ```language
