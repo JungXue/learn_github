@@ -79,13 +79,17 @@ Basic *italic* and **bold** text will be useful, however use of  ``*`` and ``**`
 | Bold              | ``** **`` | <kbd>xtrl</kbd> + <kbd>B</kbd>| ``**Bold**``       | **Bold**          |
 | Strike through    | ``~~ ~~`` |                               | ``Strike through`` | ~~Strike through~~|
 
-Note: To write out astrisks ``*`` without activating it as syntax, use <kbd>``</kbd> to include inline code blocks. 
+Note: To write out astrisks ``*`` without activating it as syntax, use <kbd>``</kbd> or <kbd>`</kbd> to include inline code blocks. 
 
 ```markdown
-> ``Code``
+> This is an ``inline code block``
+>
+> This is an `inline code block`
 ``` 
 
-``Code``
+This is an ``inline code block``
+
+This is an `inline code block`
 
 --------------------------------------------------------------------------------------------------------
 
