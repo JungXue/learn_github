@@ -79,11 +79,17 @@ Basic *italic* and **bold** text will be useful, however use of  ``*`` and ``**`
 | Bold              | ``** **`` | <kbd>xtrl</kbd> + <kbd>B</kbd>| ``**Bold**``       | **Bold**          |
 | Strike through    | ``~~ ~~`` |                               | ``Strike through`` | ~~Strike through~~|
 
-Note: To write out astrisks <kbd>*</kbd> without activating it as syntax, use <kbd>``</kbd> to include inline code blocks. 
+Note: To write out astrisks ``*`` without activating it as syntax, use <kbd>``</kbd> to include inline code blocks. 
+
+```markdown
+> ``Code``
+``` 
+
+``Code``
 
 --------------------------------------------------------------------------------------------------------
 
-### 1.4 Codes
+### 1.4 Code blocks
 the general syntax for a block of code in markdown files is, you will find the  <kbd>`</kbd> (it is with <kbd>~</kbd>) button  on the top left of your key board. 
 
 ```markdown
