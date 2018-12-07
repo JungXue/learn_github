@@ -71,13 +71,13 @@ Paragraph 2
 
 ### 1.3 Text
 
-Basic *italic* and **bold** text will be useful, however use of  <kbd>*</kbd> and <kbd>**</kbd> is ineffecient and limiting. You can use shortcuts <kbd>ctrl</kbd> + <kbd>I</kbd>  and <kbd>ctrl</kbd> + <kbd>B</kbd>, however I noticed it works on Unversity PC but not on my Laptop. 
+Basic *italic* and **bold** text will be useful, however use of  ``*`` and ``**`` is ineffecient and limiting. You can use shortcuts <kbd>ctrl</kbd> + <kbd>I</kbd>  and <kbd>ctrl</kbd> + <kbd>B</kbd>, however I noticed it works on Unversity PC but not on my Laptop. 
 
-| Style             | Syntax           | Keyboard shortcut             | Code                                 | Output            |
-| :---------------: |:----------------:| :----------------------------:|:------------------------------------:| :----------------:|
-| Italic            | <kbd>* *</kbd>   | <kbd>ctrl</kbd> + <kbd>I</kbd>| <kbd>``*``Italic``*``</kbd>          | *Italic*          |
-| Bold              | <kbd>** **</kbd> | <kbd>xtrl</kbd> + <kbd>B</kbd>| <kbd>``**``Bold``**``</kbd>          | **Bold**          |
-| Strike through    | <kbd>~~ ~~</kbd> |                               | <kbd>``~~``Strike through``~~``</kbd>| ~~Strike through~~|
+| Style             | Syntax    | Keyboard shortcut             | Code               | Output            |
+| :---------------: |:---------:| :----------------------------:|:------------------:| :----------------:|
+| Italic            | ``* *``   | <kbd>ctrl</kbd> + <kbd>I</kbd>| ``*Italic*``       | *Italic*          |
+| Bold              | ``** **`` | <kbd>xtrl</kbd> + <kbd>B</kbd>| ``**Bold**``       | **Bold**          |
+| Strike through    | ``~~ ~~`` |                               | ``Strike through`` | ~~Strike through~~|
 
 Note: To write out astrisks <kbd>*</kbd> without activating it as syntax, use <kbd>``</kbd> to include inline code blocks. 
 
@@ -157,7 +157,7 @@ https://github.com/JungXue
 
 ### 1.6 Quotes
 I see alot of people used blocked quotes in their md files, so it is definitely very useful.
-However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so I have to use <kbd>/</kbd>, <kbd>Enter</kbd> here. 
+However for some reason <kbd>Enter</kbd> , <kbd>Enter</kbd> does not work here, so I have to use <kbd>\</kbd> , <kbd>Enter</kbd> here. 
 ```markdown
 > > ### Blockquoted header
 > > This is blockquoted text.
