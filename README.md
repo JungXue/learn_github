@@ -93,9 +93,9 @@ the general syntax for a block of code in markdown files is, you will find the  
 
 Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers))
 
-I personally have the needs for R, Markdown, HTML, unfortunately I dont think there are option for SAS~nor LaTeX. 
+I personally have the needs for R, Markdown, HTML, unfortunately I dont think there are option for SAS nor LaTeX. 
 
-Note that i **DO NOT** add > in my markdown codes, ohter than example code chunks, I only add it to aid visalisation. 
+Note that i **DO NOT** add > in my markdown codes, other than example code chunks, I only add it to aid visalisation. 
 
 **Example 1: Markdown **
 ```markdown
@@ -159,25 +159,25 @@ https://github.com/JungXue
 I see alot of people used blocked quotes in their md files, so it is definitely very useful.
 However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so I have to use <kbd>/</kbd>, <kbd>Enter</kbd> here. 
 ```markdown
-> ### Blockquoted header
-> This is blockquoted text.
-> This is a second paragraph within the blockquoted text.
+> > ### Blockquoted header
+> > This is blockquoted text.
+> > This is a second paragraph within the blockquoted text.
 ```
 > ### Blockquoted header
 > This is the first paragraph.
 > This is the second paragraph. 
 
 ```markdown
-> ### Blockquoted header
->
-> This is the first paragraph.
->
-> This is the second paragraph. 
->
-> hello\
->
-> world
->
+> > ### Blockquoted header
+> >
+> > This is the first paragraph.
+> >
+> > This is the second paragraph. 
+> >
+> > hello\
+> >
+> > world
+> >
 ```
 > ### Blockquoted header
 > This is the first paragraph.
@@ -199,16 +199,6 @@ However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so
 3. Tato
 
 ```markdown
-> * Anakin
-> * Obi wan
-> * Luke
-```
-
-* Anakin
-* Obi wan
-* Luke
-
-```markdown
 > - Regression
 > - ANOVA
 > - MANOVA
@@ -217,6 +207,8 @@ However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so
 - Regression
 - ANOVA
 - MANOVA
+
+Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt bold text <kbd>``*``bold``*``</kbd>.
 
 ----------------------------------------------------------------------------------------------------------
 ###keyboard glyphs
