@@ -79,6 +79,10 @@ Basic *italic* and **bold** text will be useful, however use of  <kbd>*</kbd> an
 | Bold           | <kbd>** **</kbd> | <kbd>xtrl</kbd> + <kbd>b</kbd>| <kbd>``**``Bold``**``</kbd>          | **Bold**          |
 | Strike through | <kbd>~~ ~~</kbd> |                               | <kbd>``~~``Strike through``~~``</kbd>| ~~Strike through~~|
 
+
+Note: To write out syntax without activating it, use <kbd>`` ``</kbd>. 
+
+
 --------------------------------------------------------------------------------------------------------
 
 ### 1.4 Codes
