@@ -78,14 +78,14 @@ Basic *italic* and **bold** text will be useful, however use of  <kbd>*</kbd> an
 | Italic            | <kbd>* *</kbd>   | <kbd>ctrl</kbd> + <kbd>i</kbd>| <kbd>``*``Italic``*``</kbd>          | *Italic*          |
 | Bold              | <kbd>** **</kbd> | <kbd>xtrl</kbd> + <kbd>b</kbd>| <kbd>``**``Bold``**``</kbd>          | **Bold**          |
 | Strike through    | <kbd>~~ ~~</kbd> |                               | <kbd>``~~``Strike through``~~``</kbd>| ~~Strike through~~|
-| inline code block | <kbd>` `</kbd>   |                               | <kbd>``~~``Strike through``~~``</kbd>| ~~Strike through~~|
 
-Note: To write out astrisks <kbd>*</kbd> without activating it as syntax, use <kbd>``</kbd> to include it. 
+Note: To write out astrisks <kbd>*</kbd> without activating it as syntax, use <kbd>``</kbd> to include inline code blocks. 
 
 --------------------------------------------------------------------------------------------------------
 
 ### 1.4 Codes
 the general syntax for a block of code in markdown files is, you will find the  <kbd>`</kbd> (it is with <kbd>~</kbd>) button  on the top left of your key board. 
+
 ```markdown
 > ```language
 > ```
@@ -185,8 +185,39 @@ However for some reason <kbd>Enter</kbd> <kbd>Enter</kbd> does not work here, so
 > hello\
 >
 > world
+
 -----------------------------------------------------------------------------------------------
-**Continue here**
+### 1.7 Lists 
+
+```markdown
+> 1. Potato
+> 2. Tomato
+> 3. Tato
+```
+1. Potato
+2. Tomato
+3. Tato
+
+```markdown
+> * Anakin
+> * Obi wan
+> * Luke
+```
+
+* Anakin
+* Obi wan
+* Luke
+
+```markdown
+> - Regression
+> - ANOVA
+> - MANOVA
+```
+
+- Regression
+- ANOVA
+- MANOVA
+
 ----------------------------------------------------------------------------------------------------------
 ###keyboard glyphs
 https://meta.stackexchange.com/questions/5527/keyboard-glyphs
