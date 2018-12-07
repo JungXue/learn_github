@@ -7,7 +7,9 @@ I am writing this file as a learning process, I tend to read about codes from va
 -----------------------------------------------------------------------------------------------
 
 # Markdown files
+
 ----------------------------------------------------------------------------------------------
+
 ### 1.0 Markdown Basics
 Here are a few wiki and repository that I read to learn the basic laguage of markdown files
 - [help.github](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
@@ -16,7 +18,9 @@ Here are a few wiki and repository that I read to learn the basic laguage of mar
 - [Alexander Dupuy: dupuy/README.rst](https://gist.github.com/dupuy/1855764)
 - Posts on [stackoverflow.com](https://stackoverflow.com/) are also very helpful, I often find useful posts such as [this](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) when I do a google search keywords of my question such as "[warning boxes md file](https://www.google.co.nz/search?q=warning+boxes+md+file&rlz=1C1GGRV_enNZ816NZ816&oq=warning+boxes+md+file&aqs=chrome..69i57.527j0j7&sourceid=chrome&ie=UTF-8)". 
 - [R-Studio cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
 --------------------------------------------------------------------------------------------------------
+
 ### 1.1 Headings 
 I found #heading ##heading and ###heading most useful, I tried to add color and change font but I do not think I can, and later realised that I do not actually need to do too much fancy stuff, just keep things simple and concise and future me reading this will surely thank my decision.
 
@@ -44,6 +48,7 @@ heading 1
 ===
 heading 2
 ---
+
 ---------------------------------------------------------------------------------------------
 
 ### 1.2 Paragraphs
@@ -265,35 +270,82 @@ Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syn
 
 ----------------------------------------------------------------------------------------------------------
 
-### 1.8 keyboard glyphs
+### 1.7 
 ```
 
+----------------------------------------------------------------------------------------------------------
 
+### 1.10 Create tables
 
-# continue here
+[Github help page](https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markdown/) have a good instruction on how you could create a simple table. Basically you can use ``---`` and ``|`` to draw simple tables. 
 
-<aside class="notice">
-You must replace `meowmeowmeow` with your personal API key. 
-</aside>
-Use class="notice" for blue notes, class="warning" for red warnings, and class="success" for green notes.
+**Example 1:**
 
+```markdown
+> First Header  | Second Header
+> --- | ---
+> Carrots  | Pumpkim 
+> Bean | Okra
+```
 
+Header 1 | Header 2
+--- | ---
+Carrots  | Pumpkim 
+Bean | Okra
+
+For aesthetic purposes, you can also add extra pipes on the ends and line up each cell.
+
+**Example 2:**
+
+```markdown
+> | Header 1 | Header 2 |
+> | -------- | -------- |
+> | Carrots  | Pumpkim  |
+> | Bean     | Okra     |
+```
+
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Carrots  | Pumpkim  |
+| Bean     | Okra     |
+
+You can also use ``:`` to align texts. 
+
+**Example 3:**
+
+```markdown
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -------------:|
+| Waikato       | Andrew          | $1600         |
+| Auckland      | Alex            | $1782         |
+| Wellington    | Kim             | $1771         |
+```
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -------------:|
+| Waikato       | Andrew          | $1600         |
+| Auckland      | Alex            | $1782         |
+| Wellington    | Kim             | $1771         |
 
 ----------------------------------------------------------------------------------------------------------
-### 2. Add emoji to repository description :smiley: 
+
+### 1.11. Add emoji to repository description :smiley: 
+
+You can add emojis using ``: :``, emojis are useful in noting characteristics of file, express emotions and are jsut fun to use. 
   - Emoji by [type](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
   - Emoji by [alphabet](https://readme.io/emojis/)
   - Japanese Emoticons ╮(╯∀╰)╭ (by [Tsutomu Narushima](https://www.jemoticons.com/en/))
   - Japanese Emoticons （。ω。 三 ゜ω゜）としろうだよ ([Name diagnosis](https://shindanmaker.com/360578?fbclid=IwAR1gN16jGqWwpBVAYPg33KeN4ZLmXzEzOBZoBEC8jjuIp8L5EdmtfZ7nlpw))
-------------------------------------------------------------------------------------------------------------
-3. Create tables
-https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markdown/
+  
+```markdown
+> :smiley: 
+```
+:smiley: 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 Username ``@mentions``
@@ -302,6 +354,15 @@ Typing an @ symbol, followed by a username, will notify that person to come and 
 @jungxue
 
 <mark>Marked text</mark>
+
+notices
+
+<aside class="notice">
+You must replace `meowmeowmeow` with your personal API key. 
+</aside>
+Use class="notice" for blue notes, class="warning" for red warnings, and class="success" for green notes.
+
+
 ---
 # R
 1. set up git on R 
