@@ -79,7 +79,7 @@ Basic *italic* and **bold** text will be useful, however use of  ``*`` and ``**`
 | Bold              | ``** **`` | <kbd>xtrl</kbd> + <kbd>B</kbd>| ``**Bold**``       | **Bold**          |
 | Strike through    | ``~~ ~~`` |                               | ``Strike through`` | ~~Strike through~~|
 
-Note: To write out astrisks ``*`` without activating it as syntax, use <kbd>``</kbd> or <kbd>`</kbd> to include inline code blocks. 
+Note: To write out astrisks ``*`` without activating it as syntax, use double grave accent <kbd>``</kbd> or single grave accent <kbd>`</kbd> to include inline code blocks. I personally prefer double as it is easier to see. 
 
 ```markdown
 > This is an ``inline code block``
@@ -94,7 +94,7 @@ This is an `inline code block`
 --------------------------------------------------------------------------------------------------------
 
 ### 1.4 Code blocks
-the general syntax for a block of code in markdown files is, you will find the  <kbd>`</kbd> (it is with <kbd>~</kbd>) button  on the top left of your key board. 
+the general syntax for a block of code in markdown files is, you will find the grave accent  <kbd>`</kbd> (it is under the tilde <kbd>~</kbd> symbol) on the top left of your key board. 
 
 ```markdown
 > ```language
@@ -103,7 +103,7 @@ the general syntax for a block of code in markdown files is, you will find the  
 
 Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers))
 
-I personally have the needs for R, Markdown, HTML, unfortunately I dont think there are option for SAS nor LaTeX. 
+I personally have the needs for R, Markdown, HTML, unfortunately I dont think there are option for SAS nor LaTeX for github Markdown files. [Rstudio](https://www.rstudio.com/) allows Latex code within RMD files, and are able to convert whole file to Latex, which is very useful for study notes and thesis writing. 
 
 Note that i **DO NOT** add > in my markdown codes, other than example code chunks, I only add it to aid visalisation. 
 
@@ -241,10 +241,7 @@ You must replace `meowmeowmeow` with your personal API key.
 Use class="notice" for blue notes, class="warning" for red warnings, and class="success" for green notes.
 
 
-###keyboard glyphs
-https://meta.stackexchange.com/questions/5527/keyboard-glyphs
 
-<kbd>CTRL</kbd>+<kbd>Z</kbd>
 ----------------------------------------------------------------------------------------------------------
 ### 2. Add emoji to repository description :smiley: 
   - Emoji by [type](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
@@ -264,6 +261,8 @@ https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markd
 
 Username ``@mentions``
 Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an ``“@mention”``, because you’re mentioning the individual. You can also ``@mention`` teams within an organization.
+
+@jungxue
 
 <mark>Marked text</mark>
 ---
