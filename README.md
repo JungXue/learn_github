@@ -98,18 +98,18 @@ the general syntax for a block of code in markdown files is, you will find the g
 
 ```markdown
 > ``` language
-> Codes
+> Code block
 > ```
 ``` 
 ``` language
-Codes
+Code block
 ```
 
 Here is a list of supported languages and lexers (by [Jeanine Adkisson](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers))
 
 I personally have the needs for R, Markdown, HTML, unfortunately I dont think there are option for SAS nor LaTeX for github Markdown files. [Rstudio](https://www.rstudio.com/) allows Latex code within RMD files, and are able to convert whole file to Latex, which is very useful for study notes and thesis writing. 
 
-Note that i **DO NOT** add > in my markdown codes, other than example code chunks, I only add it to aid visalisation. 
+Note that i **DO NOT** add > in my markdown codes, I only add it in my example code chunks because I found that it aids visalisation. 
 
 **Example 1: Markdown**
 
@@ -203,6 +203,7 @@ However for some reason <kbd>Enter</kbd> , <kbd>Enter</kbd> does not work here, 
 > world
 
 -----------------------------------------------------------------------------------------------
+
 ### 1.7 Lists 
 
 ```markdown
@@ -240,7 +241,10 @@ Some people even made a whole keyboard with kbd, people have eway too much time 
 
 <kbd> ctrl</kbd> + <kbd> B </kbd>
 
-1.9 Horizontal Rule
+----------------------------------------------------------------------------------------------------------
+
+
+### 1.9 Horizontal Rule
 
 You have probabily already noticed that I use horizontal Rule to break each sections, I find this helpful and tells you approximately how long is each section before you even started reading it. Markdown requires only three repeating ``*`` ,  ``-`` or ``=`` symbols, but I personally use a very long ``-------------------------`` to break my codes visually. 
 
