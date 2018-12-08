@@ -232,10 +232,21 @@ However for some reason <kbd>Enter</kbd> , <kbd>Enter</kbd> does not work here, 
 
 Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syntax for bold text <kbd>``*``bold``*``</kbd>.
 
+**Task lists** can be useful as I do setup tasks for future me to complete. use ``- [ ]`` to create a tick box and ``- [x]`` to tick the tick box. 
+
+```markdown
+- [x] Finish my thesis
+- [ ] Get a job
+- [ ] become a Jedi
+```
+
+- [x] Finish my thesis
+- [ ] Get a job
+- [ ] become a Jedi
+
 ----------------------------------------------------------------------------------------------------------
 
 ### 1.8 keyboard glyphs
-
 You can create keyboard glyphs by using ``<kbd> </kbd>``, this is extremely useful for informing which key to press. 
 
 Some people even made a whole keyboard with kbd, people have eway too much time to spare. See [This](https://meta.stackexchange.com/questions/1939/kbd-elements-are-way-too-intrusive).
@@ -266,25 +277,12 @@ Remember to add line breaks or you will be creating a title.
 **Example**
 
 ```markdown
-Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syntax for bold text <kbd>``*``bold``*``</kbd>.
+First Section ......
 
 ----------------------------------------------------------------------------------------------------------
 
-### 1.7 
+Second section ......
 ```
-
-**Task lists** can be useful as I do setup tasks for future me to complete. use ``- [ ]`` to create a tick box and ``- [x]`` to tick the tick box. 
-
-```markdown
-- [x] Finish my thesis
-- [ ] Get a job
-- [ ] become a Jedi
-```
-
-- [x] Finish my thesis
-- [ ] Get a job
-- [ ] become a Jedi
-
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -340,6 +338,21 @@ You can also use ``:`` to align texts.
 | Auckland      | Alex            | $1782         |
 | Wellington    | Kim             | $1771         |
 
++-------+----------+------+
+| Table Headings   | Here |
++-------+----------+------+
+| Sub   | Headings | Too  |
++=======+==========+======+
+| cell  | column spanning |
++ spans +----------+------+
+| rows  | normal   | cell |
++-------+----------+------+
+| multi | * cells can be  |
+| line  | * formatted     |
+| cells | * paragraphs    |
+| too   |                 |
++-------+-----------------+
+
 ----------------------------------------------------------------------------------------------------------
 
 ### 1.11. Add emoji to repository description :smiley: 
@@ -365,15 +378,30 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
 
 
 
+### Backslash escapes
+Certain characters can be escaped with a preceding backslash to preserve the literal display of a character instead of its special Markdown meaning. This applies to the following characters:
+
+\  backslash 
+`  backtick 
+*  asterisk 
+_  underscore 
+{} curly braces 
+[] square brackets 
+() parentheses 
+#  hash mark 
+>  greater than 
++  plus sign 
+-  minus sign (hyphen) 
+.  dot 
+!  exclamation mark
 
 
 
 
-
-Section links
+### Section links
 You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
 
-Relative links
+### Relative links
 You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
 A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this:
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
@@ -381,12 +409,16 @@ GitHub will automatically transform your relative link or image path based on wh
 Relative links are easier for users who clone your repository. Absolute links may not work in clones of your repository - we recommend using relative links to refer to other files within your repository.
 
 
-Username ``@mentions``
+### Username ``@mentions``
 Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an ``“@mention”``, because you’re mentioning the individual. You can also ``@mention`` teams within an organization.
 
 @jungxue
 
 <mark>Marked text</mark>
+
+
+
+### Notes and Warnings
 
 notices
 
