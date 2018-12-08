@@ -178,7 +178,7 @@ https://github.com/JungXue
 
 ### 1.6 Quotes
 I see alot of people used blocked quotes in their md files, so it is definitely very useful.
-However for some reason <kbd>Enter</kbd> , <kbd>Enter</kbd> does not work here, so I have to use <kbd>\</kbd> , <kbd>Enter</kbd> here. 
+However for some reason <kbd>Enter</kbd> , <kbd>Enter</kbd> does not work here, so I have to use <kbd>\</kbd> , <kbd>Enter</kbd> here to create an empty line. 
 ```markdown
 > > ### Blockquoted header
 > > This is blockquoted text.
@@ -338,20 +338,6 @@ You can also use ``:`` to align texts.
 | Auckland      | Alex            | $1782         |
 | Wellington    | Kim             | $1771         |
 
-+-------+----------+------+
-| Table Headings   | Here |
-+-------+----------+------+
-| Sub   | Headings | Too  |
-+=======+==========+======+
-| cell  | column spanning |
-+ spans +----------+------+
-| rows  | normal   | cell |
-+-------+----------+------+
-| multi | * cells can be  |
-| line  | * formatted     |
-| cells | * paragraphs    |
-| too   |                 |
-+-------+-----------------+
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -378,7 +364,7 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
 
 
 
-### Backslash escapes
+### 1.13 Backslash escapes
 Certain characters can be escaped with a preceding backslash to preserve the literal display of a character instead of its special Markdown meaning. This applies to the following characters:
 
 \  backslash 
@@ -408,6 +394,7 @@ A relative link is a link that is relative to the current file. For example, if 
 GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. You can use all relative link operands, such as ./ and ../.
 Relative links are easier for users who clone your repository. Absolute links may not work in clones of your repository - we recommend using relative links to refer to other files within your repository.
 
+# Things that doesn't really work
 
 ### Username ``@mentions``
 Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an ``“@mention”``, because you’re mentioning the individual. You can also ``@mention`` teams within an organization.
@@ -415,8 +402,6 @@ Typing an @ symbol, followed by a username, will notify that person to come and 
 @jungxue
 
 <mark>Marked text</mark>
-
-
 
 ### Notes and Warnings
 
@@ -434,9 +419,7 @@ Use class="notice" for blue notes, class="warning" for red warnings, and class="
 2. Connect guithub with R [paste Blasee's repository here]
 ---
 
-# Notes
-Maybe expand this to a Today I learnt? with Git R SAS SQL SPSS HTML PYTHON etc
-like this one https://github.com/jbranchaud/til
+# References
 
 # disclaimer
 Opinions expressed are solely my own and do not express the views or opinions of my university or employer.
