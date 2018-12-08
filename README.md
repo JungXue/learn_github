@@ -8,7 +8,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 ### Contents
 
 - [Headings](https://github.com/jungxue/learn_github/blob/master/README.md#11-headings)
-- [Paragraphs]()
+- [Paragraphs](https://github.com/jungxue/learn_github/blob/master/README.md#12-paragraphs)
 - []()
 - []()
 - []()
