@@ -273,6 +273,19 @@ Note: <kbd>*</kbd> also forms a list but I avoid it because it may interrupt syn
 ### 1.7 
 ```
 
+**Task lists** can be useful as I do setup tasks for future me to complete. use ``- [ ]`` to create a tick box and ``- [x]`` to tick the tick box. 
+
+```markdown
+- [x] Finish my thesis
+- [ ] Get a job
+- [ ] become a Jedi
+```
+
+- [x] Finish my thesis
+- [ ] Get a job
+- [ ] become a Jedi
+
+
 ----------------------------------------------------------------------------------------------------------
 
 ### 1.10 Create tables
@@ -339,13 +352,33 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
   
 ```markdown
 > :smiley: 
+>
+> ╮(╯∀╰)╭ 
 ```
 :smiley: 
 
+╮(╯∀╰)╭ 
+
 ------------------------------------------------------------------------------------------------------------
 
+### 1.12 Insert pictures
 
 
+
+
+
+
+
+
+Section links
+You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
+
+Relative links
+You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
+A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this:
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. You can use all relative link operands, such as ./ and ../.
+Relative links are easier for users who clone your repository. Absolute links may not work in clones of your repository - we recommend using relative links to refer to other files within your repository.
 
 
 Username ``@mentions``
