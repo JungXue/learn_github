@@ -13,7 +13,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Paragraphs](https://github.com/jungxue/learn_github/blob/master/README.md#12-paragraphs)
 - [Text](https://github.com/jungxue/learn_md#13-text)
 - [Code Blocks](https://github.com/jungxue/learn_md/blob/master/README.md#14-code-blocks)
-- [Links]()
+- [Links](https://github.com/jungxue/learn_md/blob/master/README.md#15---links)
 - [Quotes]()
 - [Lists]()
 - [Keyboard glyphs]()
