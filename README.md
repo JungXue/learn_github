@@ -1,3 +1,5 @@
+# Markdown files
+
 This is a collections of notes on useful codes and tips that I will use to build my github, I will try to add to this everytime I learnt something new, it will start as a list and when I start to learn lots of things I will try to create a table of lists and add in codes to make this more presentable. 
 
 I am well aware that these codes are not the standardise way or the best way to write a markdown file, it is my personal preference and they will surely change over time, so if anyone found a better way you are surely wellcome to enlight me. 
@@ -5,25 +7,20 @@ I am well aware that these codes are not the standardise way or the best way to 
 I am writing this file as a learning process, I tend to read about codes from various sources, and manually type a study note style file myself as I found this helps me remember things better, it is really time consuming though. I will try my best to source, sourcing is a way to show gratitude to authors and makes things easier when you need to revisit the source for whatever reason. 
 
 -----------------------------------------------------------------------------------------------
-### Contents
+### 1.0 Contents
 
 - [Headings](https://github.com/jungxue/learn_github/blob/master/README.md#11-headings)
 - [Paragraphs](https://github.com/jungxue/learn_github/blob/master/README.md#12-paragraphs)
 - [Text](https://github.com/jungxue/learn_md#13-text)
 - [Code Blocks](https://github.com/jungxue/learn_md/blob/master/README.md#14-code-blocks)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
------------------------------------------------------------------------------------------------
-
-# Markdown files
+- [Links]()
+- [Quotes]()
+- [Lists]()
+- [Keyboard glyphs]()
+- [Horizontal Rule]()
+- [Tables]()
+- [Emoji]()
+- [Insert pictures]()
 
 ----------------------------------------------------------------------------------------------
 
@@ -303,7 +300,7 @@ Second section ......
 
 ----------------------------------------------------------------------------------------------------------
 
-### 1.10 Create tables
+### 1.10 Tables
 
 [Github help page](https://help.github.com/enterprise/11.10.340/user/articles/github-flavored-markdown/) have a good instruction on how you could create a simple table. Basically you can use ``---`` and ``|`` to draw simple tables. 
 
@@ -358,7 +355,7 @@ You can also use ``:`` to align texts.
 
 ----------------------------------------------------------------------------------------------------------
 
-### 1.11. Add emoji to repository description :smiley: 
+### 1.11. Emoji :smiley: 
 
 You can add emojis using ``: :``, emojis are useful in noting characteristics of file, express emotions and are jsut fun to use. 
   - Emoji by [type](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
@@ -384,6 +381,7 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
 ### 1.13 Backslash escapes
 Certain characters can be escaped with a preceding backslash to preserve the literal display of a character instead of its special Markdown meaning. This applies to the following characters:
 
+```markdown
 \  backslash 
 `  backtick 
 *  asterisk 
@@ -398,6 +396,7 @@ _  underscore
 .  dot 
 !  exclamation mark
 
+```
 
 
 
@@ -436,8 +435,16 @@ Use class="notice" for blue notes, class="warning" for red warnings, and class="
 2. Connect guithub with R [paste Blasee's repository here]
 ---
 
-# References
+### References
 
-# disclaimer
+Here are a few wiki and repository that I read to learn the basic laguage of markdown files
+- [help.github](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [Bitbucket Markdown syntax guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
+- [Robert Lord: lord/slate](https://github.com/lord/slate/wiki/Markdown-Syntax)
+- [Alexander Dupuy: dupuy/README.rst](https://gist.github.com/dupuy/1855764)
+- Posts on [stackoverflow.com](https://stackoverflow.com/) are also very helpful, I often find useful posts such as [this](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) when I do a google search keywords of my question such as "[warning boxes md file](https://www.google.co.nz/search?q=warning+boxes+md+file&rlz=1C1GGRV_enNZ816NZ816&oq=warning+boxes+md+file&aqs=chrome..69i57.527j0j7&sourceid=chrome&ie=UTF-8)". 
+- [R-Studio cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
+### Disclaimer
 Opinions expressed are solely my own and do not express the views or opinions of my university or employer.
 I did not intend to copy or redistribute materials or works of other people, all works are original. 
