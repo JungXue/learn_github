@@ -16,24 +16,13 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Links](https://github.com/jungxue/learn_md/blob/master/README.md#15---links)
 - [Quotes](https://github.com/jungxue/learn_md/blob/master/README.md#16-quotes)
 - [Lists](https://github.com/jungxue/learn_md/blob/master/README.md#17-lists)
-- [Keyboard glyphs]()
+- [Keyboard glyphs](https://github.com/jungxue/learn_md/blob/master/README.md#18-keyboard-glyphs)
 - [Horizontal Rule]()
 - [Tables]()
 - [Emoji]()
 - [Insert pictures]()
 
 ----------------------------------------------------------------------------------------------
-
-### 1.0 Markdown Basics
-Here are a few wiki and repository that I read to learn the basic laguage of markdown files
-- [help.github](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-- [Bitbucket Markdown syntax guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
-- [Robert Lord: lord/slate](https://github.com/lord/slate/wiki/Markdown-Syntax)
-- [Alexander Dupuy: dupuy/README.rst](https://gist.github.com/dupuy/1855764)
-- Posts on [stackoverflow.com](https://stackoverflow.com/) are also very helpful, I often find useful posts such as [this](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) when I do a google search keywords of my question such as "[warning boxes md file](https://www.google.co.nz/search?q=warning+boxes+md+file&rlz=1C1GGRV_enNZ816NZ816&oq=warning+boxes+md+file&aqs=chrome..69i57.527j0j7&sourceid=chrome&ie=UTF-8)". 
-- [R-Studio cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
-
---------------------------------------------------------------------------------------------------------
 
 ### 1.1 Headings 
 I found #heading ##heading and ###heading most useful, I tried to add color and change font but I do not think I can, and later realised that I do not actually need to do too much fancy stuff, just keep things simple and concise and future me reading this will surely thank my decision.
