@@ -14,7 +14,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Text](https://github.com/jungxue/learn_md#13-text)
 - [Code Blocks](https://github.com/jungxue/learn_md/blob/master/README.md#14-code-blocks)
 - [Links](https://github.com/jungxue/learn_md/blob/master/README.md#15---links)
-- [Quotes]()
+- [Quotes](https://github.com/jungxue/learn_md/blob/master/README.md#16-quotes)
 - [Lists]()
 - [Keyboard glyphs]()
 - [Horizontal Rule]()
