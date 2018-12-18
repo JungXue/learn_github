@@ -391,7 +391,8 @@ Certain characters can be escaped with a preceding backslash to preserve the lit
 
 ### Section links
 
-When you hover the mouse over section headings a grey link symbol will appear,
+When you hover the mouse over section headings a grey link symbol will appear.
+![screenshot1](screenshot1.png)
 
 You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
 
