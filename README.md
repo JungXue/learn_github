@@ -18,9 +18,11 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Lists](https://github.com/jungxue/learn_md/blob/master/README.md#17-lists)
 - [Keyboard glyphs](https://github.com/jungxue/learn_md/blob/master/README.md#18-keyboard-glyphs)
 - [Horizontal Rule](https://github.com/jungxue/learn_md/blob/master/README.md#19-horizontal-rule)
-- [Tables]()
+- [Tables](https://github.com/jungxue/learn_md/blob/master/README.md#110-tables)
 - [Emoji]()
-- [Insert pictures]()
+- [Pictures and GIFS]()
+- Youtube links
+
 
 ----------------------------------------------------------------------------------------------
 
