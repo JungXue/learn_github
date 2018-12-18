@@ -19,7 +19,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Keyboard glyphs](https://github.com/jungxue/learn_md/blob/master/README.md#18-keyboard-glyphs)
 - [Horizontal Rule](https://github.com/jungxue/learn_md/blob/master/README.md#19-horizontal-rule)
 - [Tables](https://github.com/jungxue/learn_md/blob/master/README.md#110-tables)
-- [Emoji]()
+- [Emoji](https://github.com/jungxue/learn_md/blob/master/README.md#111-emoji-smiley)
 - [Pictures and GIFS]()
 - Youtube links
 
