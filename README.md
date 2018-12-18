@@ -20,7 +20,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Horizontal Rule](https://github.com/jungxue/learn_md/blob/master/README.md#19-horizontal-rule)
 - [Tables](https://github.com/jungxue/learn_md/blob/master/README.md#110-tables)
 - [Emoji](https://github.com/jungxue/learn_md/blob/master/README.md#111-emoji-smiley)
-- [Pictures and GIFS]()
+- [Pictures and GIFS](https://github.com/jungxue/learn_md/blob/master/README.md#112-insert-pictures)
 - Youtube links
 
 
@@ -365,12 +365,30 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
 
 ------------------------------------------------------------------------------------------------------------
 
-### 1.12 Insert pictures
+### 1.12 Pictures and GIFS
 
 
 
 ### 1.13 Backslash escapes
-Certain characters can be escaped with a preceding backslash to preserve the literal display of a character instead of its special Markdown meaning. This applies to the following characters:
+Certain characters can be escaped with a preceding backslash to preserve the literal display of a character instead of its special Markdown syntax meaning. This applies to the following characters:
+
+
+| Name              | Code      | Outout |
+| :---------------: |:---------:| :-----:|
+| Backslash         | ``\\``    | \\     |
+| Bold              | ``\```    | \`     |
+| Strike through    | ``\*``    | \*      |
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 
 ```markdown
 \  backslash 
