@@ -17,7 +17,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Quotes](https://github.com/jungxue/learn_md/blob/master/README.md#16-quotes)
 - [Lists](https://github.com/jungxue/learn_md/blob/master/README.md#17-lists)
 - [Keyboard glyphs](https://github.com/jungxue/learn_md/blob/master/README.md#18-keyboard-glyphs)
-- [Horizontal Rule]()
+- [Horizontal Rule](https://github.com/jungxue/learn_md/blob/master/README.md#19-horizontal-rule)
 - [Tables]()
 - [Emoji]()
 - [Insert pictures]()
