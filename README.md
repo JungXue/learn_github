@@ -24,7 +24,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Backslash escapes]()
 - [Section link]()
 - [Relative Link](https://github.com/jungxue/learn_md/blob/master/README.md#115-relative-links)
-- [References]()
+- [References](https://github.com/jungxue/learn_md/blob/master/README.md#2-references)
 
 ----------------------------------------------------------------------------------------------
 
@@ -440,5 +440,5 @@ I did not intend to copy or redistribute materials or works of other people, all
 ### To do list
 
 - [x] complete first draft
-- [] grammar and spelling check
-- [] addition of new tricks when you learn something new
+- [ ] grammar and spelling check
+- [ ] addition of new tricks when you learn something new
