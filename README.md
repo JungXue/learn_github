@@ -21,7 +21,9 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Tables](https://github.com/jungxue/learn_md/blob/master/README.md#110-tables)
 - [Emoji](https://github.com/jungxue/learn_md/blob/master/README.md#111-emoji-smiley)
 - [Pictures and GIFS](https://github.com/jungxue/learn_md/blob/master/README.md#112-insert-pictures)
-- Youtube links
+- [Backslash escapes]()
+- [Section link]()
+- [Relative Link]()
 
 
 ----------------------------------------------------------------------------------------------
@@ -368,6 +370,7 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
 ### 1.12 Pictures and GIFS
 
 
+------------------------------------------------------------------------------------------------------------
 
 ### 1.13 Backslash escapes
 Certain characters can be escaped with a preceding backslash to preserve the literal display of a character instead of its special Markdown syntax meaning. Do not confuse this with inline code. This applies to the following characters:
@@ -389,46 +392,38 @@ Certain characters can be escaped with a preceding backslash to preserve the lit
 | Exclamation mark  | ``\!``    | \!     |
 
 
-### Section links
+------------------------------------------------------------------------------------------------------------
 
+### 1.14 Section links
 When you hover the mouse over section headings a grey link symbol will appear.
+
 ![screenshot1](screenshot1.png)
 
-You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
+Right click and select copy link to obtain address of the section, and then use this in your section link code
 
-### Relative links
-You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
-A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this:
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. You can use all relative link operands, such as ./ and ../.
-Relative links are easier for users who clone your repository. Absolute links may not work in clones of your repository - we recommend using relative links to refer to other files within your repository.
+![screenshot1](screenshot2.png)
 
-# Things that doesn't really work
+```markdown
+> [Headings](https://github.com/jungxue/learn_github/blob/master/README.md#11-headings)
+```
 
-### Username ``@mentions``
-Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an ``“@mention”``, because you’re mentioning the individual. You can also ``@mention`` teams within an organization.
-
-@jungxue
-
-<mark>Marked text</mark>
-
-### Notes and Warnings
-
-notices
-
-<aside class="notice">
-You must replace `meowmeowmeow` with your personal API key. 
-</aside>
-Use class="notice" for blue notes, class="warning" for red warnings, and class="success" for green notes.
+[Headings](https://github.com/jungxue/learn_github/blob/master/README.md#11-headings)
 
 
----
-# R
-1. set up git on R 
-2. Connect guithub with R [paste Blasee's repository here]
----
+------------------------------------------------------------------------------------------------------------
 
-### References
+### 1.15 Relative links
+
+You can use relative links in your readme file to help readers navigate to other files in your repository
+
+```markdow
+> [testing](docs/testing.txt)
+```
+
+[testing](docs/testing.txt)
+
+
+### 2 References
 
 Here are a few wiki and repository that I read to learn the basic laguage of markdown files
 - [help.github](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
@@ -438,6 +433,12 @@ Here are a few wiki and repository that I read to learn the basic laguage of mar
 - Posts on [stackoverflow.com](https://stackoverflow.com/) are also very helpful, I often find useful posts such as [this](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) when I do a google search keywords of my question such as "[warning boxes md file](https://www.google.co.nz/search?q=warning+boxes+md+file&rlz=1C1GGRV_enNZ816NZ816&oq=warning+boxes+md+file&aqs=chrome..69i57.527j0j7&sourceid=chrome&ie=UTF-8)". 
 - [R-Studio cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
-### Disclaimer
+### 3 Disclaimer
 Opinions expressed are solely my own and do not express the views or opinions of my university or employer.
 I did not intend to copy or redistribute materials or works of other people, all works are original. 
+
+### To do list
+
+- [x] complete first draft
+- [] grammar and spelling check
+- [] addition of new tricks when you learn something new
