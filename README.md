@@ -181,7 +181,7 @@ https://github.com/JungXue
 
 ### 1.6 Quotes
 I see alot of people used blocked quotes in their md files, so it is definitely very useful.
-However for some reason <kbd>Enter</kbd> , <kbd>Enter</kbd> does not work here, so I have to use <kbd>\</kbd> , <kbd>Enter</kbd> here to create an empty line. 
+However for some reason <kbd>Enter</kbd> , <kbd>Enter</kbd> does not work here, so I have to use <kbd>\</kbd> <kbd>Enter</kbd> here to create an empty line. 
 ```markdown
 > > ### Blockquoted header
 > > This is blockquoted text.
