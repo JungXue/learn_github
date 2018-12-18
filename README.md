@@ -370,46 +370,29 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
 
 
 ### 1.13 Backslash escapes
-Certain characters can be escaped with a preceding backslash to preserve the literal display of a character instead of its special Markdown syntax meaning. This applies to the following characters:
-
+Certain characters can be escaped with a preceding backslash to preserve the literal display of a character instead of its special Markdown syntax meaning. Do not confuse this with inline code. This applies to the following characters:
 
 | Name              | Code      | Outout |
-| :---------------: |:---------:| :-----:|
+| :---------------  |:---------:| :-----:|
 | Backslash         | ``\\``    | \\     |
-| Bold              | ``\```    | \`     |
-| Strike through    | ``\*``    | \*      |
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-
-```markdown
-\  backslash 
-`  backtick 
-*  asterisk 
-_  underscore 
-{} curly braces 
-[] square brackets 
-() parentheses 
-#  hash mark 
->  greater than 
-+  plus sign 
--  minus sign (hyphen) 
-.  dot 
-!  exclamation mark
-
-```
-
+| Bold              | ``\` ``   | \`     |
+| Strike through    | ``\*``    | \*     |
+| Underscore        | ``\_``    | \_     |
+| Curly braces      | ``\{\}``  | \{\}   |
+| Square braces     | ``\[\]``  | \[\]   |
+| Parentheses       | ``\(\)``  | \(\)   |
+| Hash              | ``\#``    | \#     |
+| Greater than      | ``\>``    | \>     |
+| Plus sign         | ``\+``    | \+     |
+| Hyphen \(minus sign\)| ``\-`` | \-     |
+| Dot               | ``\.``    | \.     |
+| Exclamation mark  | ``\!``    | \!     |
 
 
 ### Section links
+
+When you hover the mouse over section headings a grey link symbol will appear,
+
 You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
 
 ### Relative links
