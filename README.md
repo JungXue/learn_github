@@ -371,7 +371,7 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
 
 The simpliest way is to just use ``![]()``, I personally prefer dropping the picture file in my repository and link it directly, so I can avoid losing of images when linking to websites. 
 ```markdown
-![screenshot3](screenshot3.png)
+![screenshot3]( screenshot3.png)
 ![stack Overflow](http://lmsotfy.com/so.png)
 ```
 
