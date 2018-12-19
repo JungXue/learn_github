@@ -396,10 +396,10 @@ You can also add an align argument in your code, ``align = "center"`` doesn't re
 >   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 > </p>
 ```
-<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "left" width="40" height="40" />
-<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "right" width="40" height="40" />
+<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "left" width="100" height="100" />
+<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "right" width="100" height="100" />
 <p align="center">
-  <img width="400" height="400" src="http://www.fillmurray.com/460/300">
+  <img width="400" height="400" src="IMG_1063.JPG ">
 </p>
 
 
