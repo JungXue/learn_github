@@ -22,7 +22,7 @@ I am writing this file as a learning process, I tend to read about codes from va
 - [Emoji](https://github.com/jungxue/learn_md/blob/master/README.md#111-emoji-smiley)
 - [Pictures and GIFS](https://github.com/jungxue/learn_md/blob/master/README.md#112-insert-pictures)
 - [Backslash escapes](https://github.com/jungxue/learn_md/blob/master/README.md#113-backslash-escapes+)
-- [Section link]()
+- [Section link](https://github.com/jungxue/learn_md#114-section-links)
 - [Relative Link](https://github.com/jungxue/learn_md/blob/master/README.md#115-relative-links)
 - [References](https://github.com/jungxue/learn_md/blob/master/README.md#2-references)
 
@@ -369,6 +369,26 @@ You can add emojis using ``: :``, emojis are useful in noting characteristics of
 
 ### 1.12 Pictures and GIFS
 
+The simpliest way is to just use ``![]()``, I personally prefer dropping the picture file in my repository and link it directly, so I can avoid losing of images when linking to websites. 
+```markdown
+![screenshot3](screenshot3.png)
+![stack Overflow](http://lmsotfy.com/so.png)
+```
+
+![screenshot3](screenshot3.png)
+![stack Overflow](http://lmsotfy.com/so.png)
+
+You can also adjust the size of the picture using following markdown and html codes.
+
+```markdown
+![smiley](smiley.png){:height="36px" width="36px"}.
+![smiley](smiley.png){:height="36px" width="36px"}.
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" height="80" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+```
+
+
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -395,6 +415,7 @@ Certain characters can be escaped with a preceding backslash to preserve the lit
 ------------------------------------------------------------------------------------------------------------
 
 ### 1.14 Section links
+
 When you hover the mouse over section headings a grey link symbol will appear.
 
 ![screenshot1](screenshot1.png)
@@ -432,10 +453,17 @@ Here are a few wiki and repository that I read to learn the basic laguage of mar
 - [Alexander Dupuy: dupuy/README.rst](https://gist.github.com/dupuy/1855764)
 - Posts on [stackoverflow.com](https://stackoverflow.com/) are also very helpful, I often find useful posts such as [this](https://stackoverflow.com/questions/25654845/how-can-i-create-a-text-box-for-a-note-in-markdown) when I do a google search keywords of my question such as "[warning boxes md file](https://www.google.co.nz/search?q=warning+boxes+md+file&rlz=1C1GGRV_enNZ816NZ816&oq=warning+boxes+md+file&aqs=chrome..69i57.527j0j7&sourceid=chrome&ie=UTF-8)". 
 - [R-Studio cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+- [David Wells: image alignment](https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
+
+------------------------------------------------------------------------------------------------------------
 
 ### 3 Disclaimer
-Opinions expressed are solely my own and do not express the views or opinions of my university or employer.
-I did not intend to copy or redistribute materials or works of other people, all works are original. 
+Opinions expressed are solely my own and do not express the views or opinions of my university or employer. 
+I did not intend to copy or redistribute materials or works of other people, all works should be original, you can't lern by copy pasting others work.  
+
+Copyright 2018 /- Jung Xue All rights reserved
+
+------------------------------------------------------------------------------------------------------------
 
 ### To do list
 
