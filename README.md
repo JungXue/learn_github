@@ -387,12 +387,14 @@ You can also adjust the size of the picture using following markdown and html co
 <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="80" height="80" />
 <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="40" height="40" />
 
-You can also add an align argument in your code
+You can also add an align argument in your code, ``align = "center"`` doesn't really work so you have to hardcode.
 
 ```markdown
-<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "center" width="40" height="40" />
+<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "left" width="40" height="40" />
+<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "right" width="40" height="40" />
 ```
-<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "center" width="40" height="40" />
+<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "left" width="40" height="40" />
+<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" align = "right" width="40" height="40" />
 
 ------------------------------------------------------------------------------------------------------------
 
