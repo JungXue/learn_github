@@ -381,13 +381,13 @@ The simpliest way is to just use ``![]()``, I personally prefer dropping the pic
 You can also adjust the size of the picture using following markdown and html codes.
 
 ```markdown
-> ![DD](DD5.JPG ){:height="36px" width="36px"}.
-> ![DD](DD5.JPG ){:height="40px" width="20px"}.
+> ![DD](DD5.JPG ){height="36px" width="36px"}.
+> ![DD](DD5.JPG ){height="40px" width="20px"}.
 > <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="80" height="80" />
 > <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="40" height="40" />
 ```
-![DD](DD5.JPG ){:height="36px" width="36px"}.
-![DD](DD5.JPG ){:height="40px" width="20px"}.
+![DD](DD5.JPG ){height="36px" width="36px"}.
+![DD](DD5.JPG ){height="40px" width="20px"}.
 <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="80" height="80" />
 <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="40" height="40" />
 
