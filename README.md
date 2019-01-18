@@ -485,3 +485,4 @@ Copyright 2018 /- Jung Xue All rights reserved
 - [x] complete first draft
 - [ ] grammar and spelling check
 - [ ] addition of new tricks when you learn something new
+- [ ] Edit 1
