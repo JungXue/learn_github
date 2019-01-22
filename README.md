@@ -472,14 +472,6 @@ Here are a few wiki and repository that I read to learn the basic laguage of mar
 
 ------------------------------------------------------------------------------------------------------------
 
-### 3 Disclaimer
-Opinions expressed are solely my own and do not express the views or opinions of my university or employer. 
-I did not intend to copy or redistribute materials or works of other people, all works should be original, you can't lern by copy pasting others work.  
-
-Copyright 2018 /- Jung Xue All rights reserved
-
-------------------------------------------------------------------------------------------------------------
-
 ### To do list
 
 - [x] complete first draft
