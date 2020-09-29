@@ -478,3 +478,10 @@ Here are a few wiki and repository that I read to learn the basic laguage of mar
 - [ ] grammar and spelling check
 - [ ] addition of new tricks when you learn something new
 - [ ] Edit 1
+
+### Automatic daily commits
+
+To save the trouble to make commmits, we could setup a daily scheduled task to make commits for us
+
+[[Website](https://puvox.software/blog/windows-automatically-commit-push-git-repository-once-in-every-x-day-minute-hours/)]
+
